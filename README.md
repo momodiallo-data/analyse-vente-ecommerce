@@ -6,6 +6,7 @@ Analyser les ventes afin d’identifier les produits rentables, les meilleurs cl
  Outils
 Python
 Pandas
+
  Résultats
 Les téléphones sont les plus rentables
 Abdou et Awa sont les meilleurs clients
