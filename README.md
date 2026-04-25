@@ -11,6 +11,7 @@ Pandas
 Les téléphones sont les plus rentables
 Abdou et Awa sont les meilleurs clients
 Dakar est la ville la plus performante
+
  Recommandations
 
 Augmenter les stocks de produits rentables et cibler les zones performantes.
