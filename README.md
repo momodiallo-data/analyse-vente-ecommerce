@@ -1,22 +1,31 @@
- Analyse des ventes e-commerce
- 
- Objectif:
+📊 Analyse des ventes e-commerce
 
-Analyser les ventes afin d’identifier les produits rentables, les meilleurs clients et les tendances.
+🎯 Objectif:
 
- Outils:
- 
+Analyser les données de ventes afin d’identifier les produits les plus rentables, les meilleurs clients et les tendances de vente.
+
+🛠️ Outils utilisés:
+
 Python
 Pandas
+Matplotlib
 
- Résultats:
- 
-Les téléphones sont les plus rentables.
+📈 Résultats clés:
 
-Abdou et Awa sont les meilleurs clients.
+Les téléphones sont les produits les plus rentables
+Abdou et Awa sont les clients les plus importants
+Dakar est la zone la plus performante
+Les ventes varient selon les mois
 
-Dakar est la ville la plus performante.
+💡 Recommandations:
 
- Recommandations:
+Augmenter les stocks de produits rentables et concentrer les efforts commerciaux sur les zones et périodes les plus performantes.
 
-Augmenter les stocks de produits rentables et cibler les zones performantes.
+📄 Rapport:
+
+ Voir le rapport complet
+
+📁 Fichiers:
+
+analyse.ipynb → code
+rapport.pdf → analyse complète
